@@ -4,11 +4,9 @@ title: Xiaodong Wang
 name: Xiaodong Wang
 subtitle: Associate  Professor
 email: xdwangjsj@xmut.edu.cn
-description: >
-  Associate Professor 
 baseurl: ""
 url: "https://x-d-wang.github.io/"
-github_username:  x-d-wang
+github_username: x-d-wang
 disqus_baseurl: "https://x-d-wang.github.io/"
 disqus_shortname: https-xdwang-github-io
 permalink: :title
