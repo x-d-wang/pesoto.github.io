@@ -1,18 +1,18 @@
 
 # Site settings
-title: Paul E. Soto
-name: Paul E. Soto
-subtitle: Financial Economist
-email: paul.soto@upf.edu
+title: Xiaodong Wang 
+name: Xiaodong Wang
+subtitle: Associate  Professor
+email: xdwangjsj@xmut.edu.cn
 description: >
-  Financial Economist
+  Associate Professor 
 baseurl: ""
-url: "https://pesoto.github.io/"
-github_username:  pesoto
-disqus_baseurl: "https://pesoto.github.io/"
-disqus_shortname: https-pesoto-github-io
+url: "https://x-d-wang.github.io/"
+github_username:  x-d-wang
+disqus_baseurl: "https://x-d-wang.github.io/"
+disqus_shortname: https-xdwang-github-io
 permalink: :title
-google-site-verification: "EBNpnv4GiHJTmePgRajamxrYtJnc6WlqDyWUITDaSMo"
+google-site-verification: ""
 
 # Build settings
 markdown: kramdown
@@ -25,7 +25,7 @@ defaults:
     scope:
       path: ""
     values:
-      author: "Paul E. Soto"
+      author: "Xiaodong Wang"
 
 
 
@@ -38,17 +38,17 @@ gems:
 
 
 social:
-  - name: GitHub
+  - name: Google Scholar
     icon: github
-    username: pesoto
-    url: https://github.com/pesoto
-    desc: Fork me on GitHub
+    username: xdwang
+    url: https://scholar.google.com/citations?user=PmBb50kAAAAJ&hl=zh-CN
+    desc: Following me at scholar 
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Paul E. Soto
-    url: https://linkedin.com/pesoto
+    username: Xiaodong Wang
+    url: https://linkedin.com/xdwang
     desc: Connect with me on LinkedIn
     share: true
 
