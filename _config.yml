@@ -12,7 +12,6 @@ github_username:  x-d-wang
 disqus_baseurl: "https://x-d-wang.github.io/"
 disqus_shortname: https-xdwang-github-io
 permalink: :title
-google-site-verification: ""
 
 # Build settings
 markdown: kramdown
